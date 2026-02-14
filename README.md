@@ -84,13 +84,6 @@ Coursework: Software Architecture & Design, Database Design & Development, Data 
 
 ---
 
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachchin06&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachchin06&layout=compact&theme=tokyonight&cache_seconds=1800)
-
----
-
 ## Contact
 
 - Email: sachchin06@gmail.com  
